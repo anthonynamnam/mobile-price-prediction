@@ -2,7 +2,7 @@
 
 Mobile Price Prediction with Boosting Methods and Random Forest
 
-# Task Type: 
+# Task Type
 
 Multi-class Classification
 
