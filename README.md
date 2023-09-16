@@ -1,4 +1,4 @@
-# Title
+# Project Title
 Mobile Price Classification with Boosting Methods and Random Forest
 
 ## Project Type
