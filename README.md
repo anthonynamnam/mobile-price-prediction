@@ -4,7 +4,8 @@ Mobile Price Classification with Boosting Methods and Random Forest
 ## Project Type
 *Side Project*
  
-
+## Dataset
+Source: [Mobile Price Classification - Kaggle](https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification)
 
 ## Task Type
 Multi-class Classification
